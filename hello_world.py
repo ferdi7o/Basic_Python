@@ -1,3 +1,4 @@
-a = input("What is your name:")
+name = input("What is your name:")
 
-print(f'{a}, Welcome to Python programing!')
+print(f'{name}, Welcome to Python programing!')
+
